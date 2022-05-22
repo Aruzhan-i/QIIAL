@@ -8,7 +8,7 @@
 
 1. Mobile Development Environment:  Android Studio
 2. Front-end: Java
-3. Back-end: JavaScript
+3. Back-end: Java
 
 ## Roles:
 
