@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">346195631033-tem83h3bnhmjrnkihra03e2g8g2klim5.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">346195631033</string>
+    <string name="google_api_key" translatable="false">AIzaSyAGfbas7_JUhd01UjrcLGO2E5GO2vNZ78M</string>
+    <string name="google_app_id" translatable="false">1:346195631033:android:e1f105c441ee0d0921f468</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAGfbas7_JUhd01UjrcLGO2E5GO2vNZ78M</string>
+    <string name="google_storage_bucket" translatable="false">authentication-qiial.appspot.com</string>
+    <string name="project_id" translatable="false">authentication-qiial</string>
+</resources>
