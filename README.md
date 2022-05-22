@@ -2,7 +2,7 @@
 
 ## Team name:
 
-## TX
+## **TX**
 
 ## Tech stack:
 
