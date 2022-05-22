@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "346195631033",
+    "project_id": "authentication-qiial",
+    "storage_bucket": "authentication-qiial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346195631033:android:e1f105c441ee0d0921f468",
+        "android_client_info": {
+          "package_name": "com.example.qiial_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346195631033-tem83h3bnhmjrnkihra03e2g8g2klim5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGfbas7_JUhd01UjrcLGO2E5GO2vNZ78M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346195631033-tem83h3bnhmjrnkihra03e2g8g2klim5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
